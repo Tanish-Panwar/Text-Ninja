@@ -1,0 +1,198 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+*{
+  font-family: 'Courier New', Courier, monospace;
+}
+/* 
+.container {
+  margin-top: 30px;
+  padding: 10px;
+  overflow: hidden;
+  width: 80%;
+  background-image: url('https://source.unsplash.com/1600x900/?white,white');
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+#myBox {
+  outline: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.glass{
+  background: rgba(255, 255, 255, 0.377);
+  outline: none;
+  box-shadow: 0 8px 32px 0 rgba(3, 3, 5, 0.37);
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 5px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  justify-content: center;
+  text-align: center;
+  position:static;
+  z-index: 0;
+  bottom:0px;
+}
+
+
+
+
+
+.navbar {
+  background-color: aqua;
+}
+
+.navbar-light {
+  background-color: rgb(218, 255, 230);
+}
+
+
+#corrector {
+  justify-content: center;
+  text-align: center;
+  position:static;
+  z-index: 0;
+  bottom:0px;
+  margin-top: 50px;
+}
+
+
+.Results {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  position:static;
+  z-index: 0;
+  bottom:0px;
+} */
+
+
+
+.glass{
+  /* resize: none; */
+  background: rgba(255, 255, 255, 0.377);
+  outline: none;
+  box-shadow: 0 8px 32px 0 rgba(3, 3, 5, 0.37);
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  /* border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+}
+/* #ffffff5e */
+
+#box {
+  width: 90%;
+}
+.My-container {
+  display: flex;
+}
+
+
+
+.container {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+body {
+  background-color: #f3f3f3;
+  color: #16181b;
+}
+
+.containerSR {
+  display: flex;
+}
+.search-replace {
+  display: flex;
+  resize: none;
+}
+
+.buttonBtn {
+  height: 40px;
+  
+}
+
+.a {
+  display: flex;
+  height: 10px;
+  text-align: center;
+  margin-top: 0px;
+  margin: 0px;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.colorPicker {
+  margin: 10px;
+  border: 0px solid #000;
+  outline: none;
+}
+
+#Red {
+  background-color: red;
+  color: white;
+}
+
+#Green {
+  background-color: greenyellow;
+}
+
+#Blue {
+  background-color: blue;
+  color: white;
+}
+
+.ColorPickerContainer {
+  display: flex;
+  align-items: center;
+}
+
+
+.containerAbout {
+  border: 1px solid;
+}
